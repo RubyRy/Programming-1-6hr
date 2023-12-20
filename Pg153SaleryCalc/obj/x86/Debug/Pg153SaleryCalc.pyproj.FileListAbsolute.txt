@@ -1,0 +1,14 @@
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\obj\x86\Debug\Pg153SaleryCalc.pyprojResolveAssemblyReference.cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\obj\x86\Debug\Pg153SaleryCalc.MainForm.resources
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\obj\x86\Debug\Pg153SaleryCalc.pyproj.GenerateResource.Cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\Pg153SaleryCalc.exe.config
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\Pg153SaleryCalc.exe
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\Pg153SaleryCalc.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\IronPython.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\IronPython.Modules.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\IronPython.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\bin\Debug\IronPython.Modules.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg153SaleryCalc\obj\x86\Debug\Pg153SaleryCalc.exe

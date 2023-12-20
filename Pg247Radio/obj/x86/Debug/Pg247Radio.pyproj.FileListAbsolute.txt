@@ -1,0 +1,14 @@
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\Pg247Radio.exe.config
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\Pg247Radio.exe
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\Pg247Radio.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\IronPython.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\IronPython.Modules.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\Microsoft.Scripting.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\IronPython.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\bin\Debug\IronPython.Modules.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\obj\x86\Debug\Pg247Radio.pyprojResolveAssemblyReference.cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\obj\x86\Debug\Pg247Radio.MainForm.resources
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\obj\x86\Debug\Pg247Radio.pyproj.GenerateResource.Cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg247Radio\obj\x86\Debug\Pg247Radio.exe

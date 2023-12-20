@@ -1,0 +1,12 @@
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\Prog58b.exe.config
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\Prog58b.exe
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\Prog58b.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\IronPython.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\IronPython.Modules.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\IronPython.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\bin\Debug\IronPython.Modules.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\obj\x86\Debug\Prog58b.pyprojResolveAssemblyReference.cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog58b\obj\x86\Debug\Prog58b.exe

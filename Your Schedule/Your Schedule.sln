@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "Your Schedule", "Your Schedule.rbproj", "{F27A79F5-4E00-4E13-B0AE-F163D79B4D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27A79F5-4E00-4E13-B0AE-F163D79B4D4C}.Debug|x86.Build.0 = Debug|x86
+		{F27A79F5-4E00-4E13-B0AE-F163D79B4D4C}.Debug|x86.ActiveCfg = Debug|x86
+		{F27A79F5-4E00-4E13-B0AE-F163D79B4D4C}.Release|x86.Build.0 = Release|x86
+		{F27A79F5-4E00-4E13-B0AE-F163D79B4D4C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

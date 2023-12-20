@@ -1,0 +1,14 @@
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\pg119FullName.exe.config
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\pg119FullName.exe
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\pg119FullName.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\IronPython.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\IronPython.Modules.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\Microsoft.Scripting.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\IronPython.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\bin\Debug\IronPython.Modules.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\obj\x86\Debug\pg119FullName.pyprojResolveAssemblyReference.cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\obj\x86\Debug\pg119FullName.MainForm.resources
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\obj\x86\Debug\pg119FullName.pyproj.GenerateResource.Cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\pg119FullName\obj\x86\Debug\pg119FullName.exe

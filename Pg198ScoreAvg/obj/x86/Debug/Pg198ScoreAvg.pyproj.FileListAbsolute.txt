@@ -1,0 +1,14 @@
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\Pg198ScoreAvg.exe.config
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\Pg198ScoreAvg.exe
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\Pg198ScoreAvg.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\IronPython.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\IronPython.Modules.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\Microsoft.Scripting.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\IronPython.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\bin\Debug\IronPython.Modules.xml
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.pyprojResolveAssemblyReference.cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.MainForm.resources
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.pyproj.GenerateResource.Cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.exe

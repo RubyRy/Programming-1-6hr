@@ -1,0 +1,3 @@
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog76a\obj\x86\Debug\Prog76a.pyprojResolveAssemblyReference.cache
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog76a\obj\x86\Debug\Prog76a.MainForm.resources
+C:\Users\yount.r\Desktop\Programming 1 6hr\Prog76a\obj\x86\Debug\Prog76a.pyproj.GenerateResource.Cache
